@@ -10,3 +10,4 @@ I will try to Credit everyone i used code from, if i forgot someone and you reco
 
 
 # List of Scripts and what they do:
+* Still Empty cause i just started this repo, get out and come back later
