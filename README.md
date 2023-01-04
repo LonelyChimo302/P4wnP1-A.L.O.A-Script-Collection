@@ -6,4 +6,7 @@ Also i know how hard it is to find anything about this thing thats in good engli
 Some of these will just be copy-pasted from other users, some will be slightly edited to my needs and some will be scripted from scratch.
 I will try to Credit everyone i used code from, if i forgot someone and you recognize your code, just message me i will add credits.
 
+* I will probably add a Tutorial one day, since i find it infuriating how scarce the Documentation and Information on this thing is. I had some problems setting it up the first time and had to basically troubleshoot everything myself, because every tutorial out there just assumes that everything works great on your end.
+
+
 # List of Scripts and what they do:
