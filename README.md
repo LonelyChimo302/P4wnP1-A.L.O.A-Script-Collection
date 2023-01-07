@@ -17,6 +17,8 @@ I will try to Credit everyone i used code from, if i forgot someone and you reco
 * https://github.com/NightRang3r/P4wnP1-A.L.O.A.-Payloads
 * https://github.com/JudahGoldstein/P4wnP1-ALOA-Scripts
 * https://github.yanqishui.work/Coderdude112/P4wnP1-A.L.O.A.-Payloads
+* https://github.com/akhil1136/P4wnP1-ALOA-payloads
+
 
 # How to Use:
 ### PureHIDScripts:
