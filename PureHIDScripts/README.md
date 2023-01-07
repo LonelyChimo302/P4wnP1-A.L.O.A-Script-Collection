@@ -8,6 +8,6 @@
 
 ## RickRoll
 
-* Even more self explanatory then the PhoneUnlocker. It will automatically play the Youtubevideo of Rick Astley's "Never Gonna Give You Up" upon being recognized as an HID. This will work on any Windows PC (Tho i only tested this on WIN 10 and 11, WIN + R and typing in a link should work on older WIN versions aswell)
+* Even more self explanatory then the PhoneUnlocker. It will automatically play the Youtubevideo of Rick Astley's "Never Gonna Give You Up" upon being recognized as an HID. This will work on any Windows PC (Tho i only tested this on WIN 10 and 11, WIN + R and typing in a link should work on older WIN versions aswell). To make this one work on OSX just replace the line "press("WIN R");" with "press("WIN SPACE");"
 
 ## More soon
