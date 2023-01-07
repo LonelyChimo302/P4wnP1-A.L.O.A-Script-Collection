@@ -1,15 +1,15 @@
 delay(500);
 //Layout and Stuff
 layout("DE");
-console.log("AndroidPinUnlockerstarted");
+console.log("Android Pin Unlocker started");
 typingSpeed(300,200);
 delay(800);
 //Getting to the PIN Screen
 moveStepped(-2000,300);
-console.log("Doubleclickbutton1");
+console.log("Double click button1");
 doubleClick(BT1);
 delay(999);
-console.log("Movingmousewithbutton1pressed");
+console.log("Moving mouse with button1 pressed");
 button(BT1);
 moveStepped(3000,0);
 button(BTNONE);
@@ -30,7 +30,7 @@ type("1337\n");
 delay(33000); //Delay of a bit more then 30seconds, because most Phones lock themselves for 30seconds when 5 PINs were incorrect
 
  //Getting to the PIN Screen again: Electric Boogaloo
-console.log("Doubleclickbutton1");
+console.log("Doubleclick button1");
 doubleClick(BT1);
 delay(999);
 console.log("Moving mouse with button1 pressed");
