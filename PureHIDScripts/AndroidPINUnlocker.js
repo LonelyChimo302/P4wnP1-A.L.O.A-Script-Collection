@@ -18,7 +18,7 @@ moveStepped(1000,100);
 button(BTNONE);
 delay(3000);
 
-//Actual PIN typing now (you can edit the numbers to whatever you want, i'd recommend using your victims Birthday or Year if you know it.
+//Actual PIN typing now (you can edit the numbers to whatever you want, i'd recommend using your victims birthday or year if you know it.)
 
 type("1234\n");
 type("1111\n");
