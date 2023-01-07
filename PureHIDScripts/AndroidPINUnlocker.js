@@ -1,4 +1,3 @@
-delay(500);
 //Layout and Stuff
 layout("DE");
 console.log("Android Pin Unlocker started");
