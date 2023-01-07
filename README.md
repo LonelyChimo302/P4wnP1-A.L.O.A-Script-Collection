@@ -22,12 +22,12 @@ I will try to Credit everyone i used code from, if i forgot someone and you reco
 
 # How to Use:
 ### PureHIDScripts:
-* Just Copy Paste these into the editor on the P4wnP1s Http website under "HIDScript" and store them there
+* Just copy paste these into the editor on the P4wnP1s http website under "HIDScript" and store them there
 
 * Then just add a Trigger Action "USB gadget connected to host" (Can be something different depending on the Script, if not specified its usually this tho) ---> "start HIDScript *HID SCRIPT NAME*". Store that Trigger Action as something you can remember what its for.
 
 * Next you want to go to "Generic Settings" and create a new Startup Template with your new Trigger Action selected. Store that too and then put it into the Startup Master Template
 
-* Disconnect your device to shut it down and next time you connect it to a host it will start the HIDScript upon being recognized as an HID.
+* Disconnect your device to shut it down and next time you connect it to a host it will start the HIDScript upon being recognized as an HID (or the script specific trigger if specified).
 
 ## More soon
