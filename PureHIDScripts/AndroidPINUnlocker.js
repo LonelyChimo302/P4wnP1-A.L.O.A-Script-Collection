@@ -2,7 +2,7 @@ delay(500);
 //Layout and Stuff
 layout("DE");
 console.log("Android Pin Unlocker started");
-typingSpeed(300,200);
+typingSpeed(200,200);
 delay(800);
 //Getting to the PIN Screen
 moveStepped(-2000,300);
@@ -14,7 +14,7 @@ button(BT1);
 moveStepped(3000,0);
 button(BTNONE);
 moveStepped(-3000,0);
-delay(5000);
+delay(2000);
 
 //Actual PIN typing now (you can edit the numbers to whatever you want, i'd recommend using your victims birthday or year if you know it.)
 
@@ -38,7 +38,7 @@ button(BT1);
 moveStepped(3000,0);
 button(BTNONE);
 moveStepped(-3000,0);
-delay(5000);
+delay(2000);
 
 //Actual PIN typing again 
 
